@@ -71,6 +71,7 @@ Image gradient
 ```
 Generates an image gradient_threshold.pgm
 ![gradient_threshold](https://github.com/mirjetash/visual_computing/blob/master/edge_detection/For_visualization_github/gradient_threshold.png?raw=true)
+Image gradient_threshold with threshold 50
 
 ##### To run non_maximum_supression
 ```
@@ -89,4 +90,4 @@ E.g.:   ./hysteresis gradient_min.pgm 10 30
 
 Generates  an image hysteresis_1.pgm
 ![hysteresis_1](https://github.com/mirjetash/visual_computing/blob/master/edge_detection/For_visualization_github/hysteresis_1.png)
-
+Image hysteresis_1 with low threshold 10 and high threshold 30
