@@ -44,6 +44,10 @@ make all
 Creates three programs: computing_gradient, user_threshold, non_maximum_suppression, hysteresis 
 
 ## Running the programs
+As an example to show the result of each program I used the following image boat.pgm
+
+![boat.pgm](https://github.com/mirjetash/visual_computing/blob/master/edge_detection/boat.pgm?raw=true)
+
 
 ##### To run computing_gradient
 ```
@@ -54,17 +58,23 @@ Generates three images:
  * filtery.pgm: Gradient y of the image
  * gradient.pgm: Gradient magnitudes of the image
 
+![filterx.pgm](https://github.com/mirjetash/visual_computing/blob/master/edge_detection/filterx.pgm?raw=true)
+![filtery.pgm](https://github.com/mirjetash/visual_computing/blob/master/edge_detection/filtery.pgm?raw=true)
+![gradient.pgm](https://github.com/mirjetash/visual_computing/blob/master/edge_detection/gradient.pgm?raw=true)
+
 ##### To run user_threshold
 ```
 ./user_threshold <image_filename.pgm> <threshold_value>
 ```
 Generates an image gradient_threshold.pgm
+![gradient_threshold.pgm](https://github.com/mirjetash/visual_computing/blob/master/edge_detection/gradient_threshold.pgm?raw=true)
 
 ##### To run non_maximum_supression
 ```
 ./non_maximum_supression <image_filename.pgm> 
 ```
 Generates an image gradient_min.pgm
+![gradient_min.pgm](https://github.com/mirjetash/visual_computing/blob/master/edge_detection/gradient_min.pgm?raw=true)
 
 ##### To run hysteresis
 ```
@@ -75,5 +85,5 @@ Generates an image gradient_min.pgm
 E.g.:   ./hysteresis gradient_min.pgm 10 30
 
 Generates  an image hysteresis_1.pgm
-
+![hysteresis_1.pgm](https://github.com/mirjetash/visual_computing/blob/master/edge_detection/hysteresis_1.pgm?raw=true)
 
