@@ -49,7 +49,7 @@ As an example to show the result of each program I used the following image boat
 ![Image of a boat]
 (https://github.com/mirjetash/visual_computing/blob/master/edge_detection/boat.pgm)
 
-![alt text](https://github.com/mirjetash/visual_computing/edge_detection/boat.pgm?raw=true)
+![alt text](https://github.com/mirjetash/visual_computing/blob/master/edge_detection/boat.pgm?raw=true)
 
 
 ##### To run computing_gradient
