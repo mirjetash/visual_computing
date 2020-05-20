@@ -47,7 +47,7 @@ Creates three programs: computing_gradient, user_threshold, non_maximum_suppress
 As an example to show the result of each program I used the following image boat.pgm
 
 
-![boat](https://github.com/mirjetash/visual_computing/blob/master/edge_detection/For_visualization_github/boat.png =250x250)
+![boat](https://github.com/mirjetash/visual_computing/blob/master/edge_detection/For_visualization_github/boat.png){:height="24px" width="48px"}
 
 ##### To run computing_gradient
 ```
