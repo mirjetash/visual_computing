@@ -44,6 +44,11 @@ make all
 Creates three programs: computing_gradient, user_threshold, non_maximum_suppression, hysteresis 
 
 ## Running the programs
+As an example to show the result of each program I used the following image boat.pgm
+
+![Image of a boat]
+(https://github.com/mirjetash/visual_computing/blob/master/edge_detection/boat.pgm)
+
 
 ##### To run computing_gradient
 ```
