@@ -46,6 +46,8 @@ Creates three programs: computing_gradient, user_threshold, non_maximum_suppress
 ## Running the programs
 As an example to show the result of each program I used the following image boat.pgm
 
+
+![boat1.pgm](https://github.com/mirjetash/visual_computing/blob/master/edge_detection/Results/boat.pgm?raw=true)
 ![boat.pgm](https://github.com/mirjetash/visual_computing/blob/master/edge_detection/boat.pgm?raw=true)
 
 
