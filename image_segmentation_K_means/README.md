@@ -32,9 +32,12 @@ Segmentation of an image using K-means, based on the pixel position and their co
 ./spatial_color_kmeans <Image_filename.ppm>  <Number_of_K_clusters> <filename_tobe_segmented> <number_of_interations>
 ```
 
+#### Results of color_intensity_kmeans program
 
 ![color_intensity_results](https://github.com/mirjetash/visual_computing/blob/master/image_segmentation_K_means/For_visualization_github/color_intensity_results.png)
 
+#### Results of spatial_color_kmeans program
 
 ![spatial_results](https://github.com/mirjetash/visual_computing/blob/master/image_segmentation_K_means/For_visualization_github/spatial_results.png)
 
+**Note** input images need to be .ppm format.
